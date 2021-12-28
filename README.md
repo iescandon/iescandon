@@ -13,20 +13,20 @@ I'm a full-stack web developer from Houston, TX.
 #### Front End Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap)
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-white?style=flat&logo=tailwindcss)
-![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)
+![JQuery](https://img.shields.io/badge/-JQuery-white?style=flat&logo=jquery)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-white?style=flat&logo=angular)
+![NextJS](https://img.shields.io/badge/-NextJS-white?style=flat&logo=nextjs)
 
 #### Back End Tools
-![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat&logo=Node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 
 #### Technologies
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
-![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=heroku)
+![WordPress](https://img.shields.io/badge/-WordPress-white?style=flat&logo=wordpress)
 
 ## Get In Touch
 
