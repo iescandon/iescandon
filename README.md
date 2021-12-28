@@ -37,9 +37,9 @@ I'm a full-stack web developer from Houston, TX.
 #### [Instagram](https://www.instagram.com/inescandon/) -->
 <!-- <p align="center"> -->
 <p>
-        <a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Portfolio"></a>
-        <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Resume"></a>
-	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Instagram"></a>
+  <a href="https://github.com/sponsors/terrytangyuan" target="_blank"><img src="imgs/sponsors.svg" alt="Portfolio"></a>
+  <a href="" target="_blank"><img src="imgs/cv.svg" alt="Resume"></a>
+  <a href="https://github.com/terrytangyuan" target="_blank"><img src="imgs/github.svg" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/terrytangyuan" target="_blank"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://twitter.com/TerryTangYuan" target="_blank"><img src="imgs/twitter.svg" alt="Instagram"></a>
 </p>
