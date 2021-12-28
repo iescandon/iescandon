@@ -4,7 +4,7 @@
 
 ## How I Work
 
-### Get In Touch
+## Get In Touch
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
