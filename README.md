@@ -1,8 +1,8 @@
 # Hola 👋 My name is Inez
+### I'm a full-stack web developer from Houston, TX.
 
 
-
-## Tech I Use
+## Tech Toolbox
 
 ## Get In Touch
 
