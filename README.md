@@ -1,4 +1,4 @@
-# Hola 👋 My name is Inez
+# Hola! 👋 My name is Inez.
 I'm a full-stack web developer from Houston, TX.
 
 
