@@ -12,7 +12,7 @@ I'm a full-stack web developer from Houston, TX.
 
 #### Front End Tools
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![Bootstrap](https://img.shields.io/badge/-Tailwind-563D7C?style=flat&logo=tailwind)
+![Bootstrap](https://img.shields.io/badge/-Tailwind-563D7C?style=flat&logo=tailwindcss)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
