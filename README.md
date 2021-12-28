@@ -3,10 +3,15 @@ I'm a full-stack web developer from Houston, TX.
 
 
 ## Tech Toolbox
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
+### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
@@ -16,7 +21,6 @@ I'm a full-stack web developer from Houston, TX.
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
-![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)
 
