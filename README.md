@@ -5,7 +5,7 @@ I'm a full-stack web developer from Houston, TX.
 ## Skills
 
 #### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
