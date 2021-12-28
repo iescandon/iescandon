@@ -35,11 +35,16 @@ I'm a full-stack web developer from Houston, TX.
 <!-- #### [Portfolio](https://inescandon.vercel.app/)
 #### [LinkedIn](https://www.linkedin.com/in/iescandon/)
 #### [Instagram](https://www.instagram.com/inescandon/) -->
+[Portfolio](https://inescandon.vercel.app/) &nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/iescandon/) &nbsp;&nbsp;&nbsp;
+[Instagram](https://www.instagram.com/inescandon/)
+
 <!-- <p align="center"> -->
-<p>
+<!-- <p>
   <a href="https://inescandon.vercel.app/" target="_blank"><img src="imgs/portfolio.svg" alt="Portfolio"></a>
   <a href="https://drive.google.com/file/d/1q5DfZGa9opI0e52uByB0jCVLsrzPr23F/view?usp=sharing" target="_blank"><img src="imgs/resume.svg" alt="Resume"></a>
   <a href="https://github.com/iescandon" target="_blank"><img src="imgs/github.svg" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/iescandon/" target="_blank"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/inescandon/" target="_blank"><img src="imgs/instagram.svg" alt="Instagram"></a>
 </p>
+ -->
