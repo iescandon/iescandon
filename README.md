@@ -1,7 +1,7 @@
-# Hola! 👋 My name is Inez.
+<!-- # Hola! 👋 My name is Inez. -->
 
-<!-- ![Banner](imgs/banner.png) -->
-I'm a full-stack web developer from Houston, TX.
+![Banner](imgs/banner.png)
+<!-- I'm a full-stack web developer from Houston, TX. -->
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flate&logo=html5)
