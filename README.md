@@ -1,4 +1,4 @@
-# Hola! 👋 My name is Inez
+# Hola 👋 My name is Inez
 
 
 
