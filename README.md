@@ -2,7 +2,7 @@
 I'm a full-stack web developer from Houston, TX.
 
 
-## Tech Toolbox
+## Skills
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,7 +22,7 @@ I'm a full-stack web developer from Houston, TX.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
 
-### Other
+### Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
