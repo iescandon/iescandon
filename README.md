@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p> -->
 
-## My Values
-
-## How I Work
+## Tech I Use
 
 ## Get In Touch
 
