@@ -32,19 +32,14 @@ I'm a full-stack web developer from Houston, TX.
 ![Wordpress](https://img.shields.io/badge/-Wordpress-white?style=flat&logo=wordpress&logoColor=21759b)
 
 ## Get In Touch
-
+<!-- #### [Portfolio](https://inescandon.vercel.app/)
+#### [LinkedIn](https://www.linkedin.com/in/iescandon/)
+#### [Instagram](https://www.instagram.com/inescandon/) -->
+<!-- <p align="center"> -->
 <p>
-        <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Portfolio"></a>
-	</p>
-	<p>
+        <a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Portfolio"></a>
+        <a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Resume"></a>
 	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-	</p>
-	<p>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	</p>
-	<p>
-	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Instagram"></a>
-	</p>
-	<p>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Resume"></a>
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Instagram"></a>
 </p>
