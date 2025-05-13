@@ -21,10 +21,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 
-![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
-![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=heroku&logoColor=6567a5)
-![Wordpress](https://img.shields.io/badge/-Wordpress-white?style=flat&logo=wordpress&logoColor=21759b)
-
 ## Get In Touch
 [Portfolio](https://inescandon.vercel.app/) &nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/iescandon/) &nbsp;&nbsp;&nbsp;
